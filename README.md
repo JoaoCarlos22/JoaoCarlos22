@@ -24,4 +24,4 @@ Me chamo _João Carlos_, moro em Itacoatiara-AM (Brasil). Atualmente estou cursa
 
 ![JoaoCarlos22 stats](https://github-readme-stats.vercel.app/api?username=JoaoCarlos22&theme=tokyonight&show_icons=true)
 
-<!-- [![JoaoCarlos22 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlos22&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+[![JoaoCarlos22 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlos22&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
