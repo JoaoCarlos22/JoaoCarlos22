@@ -2,6 +2,8 @@
 
 Me chamo _João Carlos_, moro em Itacoatiara-AM (Brasil). Atualmente estou cursando Engenharia de Software, onde já adquiri conhecimentos em diversas áreas da tecnologia, como desenvolvimento web, estruturas de dados, bancos de dados e lógica de programação. Estou sempre buscando aprender mais e contribuir com soluções eficientes e bem estruturadas. 🚀
 
+### 👤 Portifólio: [Link](https://joaocarlos22.github.io/portifolio/)
+
 ## :computer: Tecnologias e ferramentas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
