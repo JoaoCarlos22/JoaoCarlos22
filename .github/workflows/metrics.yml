@@ -37,9 +37,3 @@ jobs:
           # --- Plugin: PRs e Issues ---
           plugin_followup: yes
           plugin_followup_sections: user
-
-          # --- Plugin: Atividade recente ---
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
