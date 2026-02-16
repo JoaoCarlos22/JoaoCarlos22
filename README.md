@@ -1,6 +1,8 @@
 # 👋 Seja bem vindo(a)!
 
-Me chamo _João Carlos_, moro em Itacoatiara-AM (Brasil). Atualmente estou cursando Engenharia de Software, onde já adquiri conhecimentos em diversas áreas da tecnologia, como desenvolvimento web, estruturas de dados, bancos de dados e lógica de programação. Estou sempre buscando aprender mais e contribuir com soluções eficientes e bem estruturadas. 🚀
+Me chamo _João Carlos_, moro em Itacoatiara-AM (Brasil). 
+
+Atualmente sou estagiário da Bemol Digital, onde faço parte do programa Talent Lab, e estou cursando Engenharia de Software na Universidade Federal do Amazonas. Já adquiri conhecimentos em diversas áreas da tecnologia, como desenvolvimento web, estruturas de dados, bancos de dados e lógica de programação. Estou sempre buscando aprender mais e contribuir com soluções eficientes e bem estruturadas. 🚀
 
 ### 👤 Portifólio: [Link](https://joaocarlos22.github.io/portifolio/)
 
@@ -22,14 +24,12 @@ Me chamo _João Carlos_, moro em Itacoatiara-AM (Brasil). Atualmente estou cursa
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-## 🚀 Números
+## 🚀 GitHub Stats
 
-![JoaoCarlos22 stats](https://github-readme-stats.vercel.app/api?username=JoaoCarlos22&theme=tokyonight&show_icons=true)
-
-[![JoaoCarlos22 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlos22&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="80%">
+</div>
