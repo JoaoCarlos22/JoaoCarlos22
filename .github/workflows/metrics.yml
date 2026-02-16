@@ -37,3 +37,4 @@ jobs:
           # --- Plugin: PRs e Issues
           plugin_followup: yes
           plugin_followup_sections: user
+          plugin_followup_indepth: yes
