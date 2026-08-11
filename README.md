@@ -5,8 +5,6 @@ Me chamo _João Carlos_, moro em Itacoatiara-AM (Brasil).
 Atualmente sou **estagiário na Bemol Digital**, onde faço parte do programa **Talent Lab**, e curso **Engenharia de Software** na **Universidade Federal do Amazonas**. Tenho experiência com **desenvolvimento web e mobile**, **APIs**, **pipelines CI/CD** e **bancos de dados**, sempre buscando escrever código **bem estruturado**, com **boas práticas**, **organização** e atenção a **performance** e **manutenibilidade**.  
 Estou em constante evolução e gosto de contribuir com soluções **eficientes e escaláveis**. 🚀
 
-### 👤 Portifólio: [Link](https://joaocarlos22.github.io/portifolio/)
-
 ## :computer: Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
